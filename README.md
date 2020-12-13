@@ -106,3 +106,4 @@ o	The standard deviation of the number of backers.
 
 •	Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
+  # Navi Sohi | Data Analytics & Visualization
